@@ -1,0 +1,9 @@
+$ cd ~/crawler python
+
+$ mkvirtualenv --no-site-packages -p /usr/bin/python3.5 crawler_3.5
+
+$ workon crawler_3.5
+
+$ pip install -r requeriments.txt
+
+$ jupyter notebook

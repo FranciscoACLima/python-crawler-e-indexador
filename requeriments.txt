@@ -1,0 +1,7 @@
+beautifulsoup4
+jupyter
+lxml
+numpy
+nltk
+urllib3
+pymysql
